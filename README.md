@@ -16,7 +16,7 @@ This project contains automated test cases for the login functionality of a demo
 ## 🏗️ Project Structure
 
 ```
-qa-automation-assignment/
+QA-Automation-Assignment/
 │
 ├── tests/
 │   └── login.test.java                    # Test cases
