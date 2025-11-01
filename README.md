@@ -258,4 +258,4 @@ This project is created for QA automation assignment purposes.
 
 ---
 
-**Happy Testing! 🚀**
+
