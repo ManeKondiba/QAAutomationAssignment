@@ -71,7 +71,7 @@ Before running the tests, ensure you have the following installed:
 ### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd qa-automation-assignment
+cd QA-Automation-Assignment
 ```
 
 ### 2. Install Dependencies
